@@ -1,2 +1,2 @@
 # python-data-scraper
-Basic Web Data Scraping code using Python
+Basic Web Data Scraping program using Python
