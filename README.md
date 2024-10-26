@@ -30,6 +30,7 @@ Ensure you have the necessary libraries installed by using the following command
 ```bash
 pip install beautifulsoup4
 pip install requests
+pip install Scrapy
 ```
 
 ## License
