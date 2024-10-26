@@ -16,7 +16,7 @@ To run the Scrapy spider, use the following command in your terminal:
 scrapy crawl matcha
 ```
 
-Make sure you are in the correct directory where your Scrapy project is located.
+Make sure you are in the correct directory where your Scrapy project is located and correct name of spider is entered.
 
 ### Running BeautifulSoup
 To run the BeautifulSoup scraping script, use the following command in your terminal:
@@ -32,9 +32,6 @@ pip install beautifulsoup4
 pip install requests
 pip install Scrapy
 ```
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 - **BeautifulSoup**: [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
