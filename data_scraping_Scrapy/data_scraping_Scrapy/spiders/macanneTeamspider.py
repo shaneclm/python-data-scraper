@@ -33,7 +33,7 @@ class MacanneTeamSpider(scrapy.Spider):
                 index = index + 1
 
             index = 0
-            column_classes = [f'div.fusion-builder-column-{i}' for i in range(28, 38)]
+            column_classes = [f'div.fusion-builder-column-{i}' for i in range(28, 39)]
             selector = ', '.join(column_classes)
             for team in target_div.css(selector):
                 name_index = index * 2 + 20
