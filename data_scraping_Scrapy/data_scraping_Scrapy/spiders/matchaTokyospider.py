@@ -2,7 +2,7 @@ import scrapy
 
 class MatchaSpider(scrapy.Spider):
     # name of the spider, used for running the spider from the command line
-    name = 'matcha'
+    name = 'matchaTokyo'
 
     # initial URL to start scraping
     start_urls = ['https://www.the-matcha.tokyo/collections/all']
