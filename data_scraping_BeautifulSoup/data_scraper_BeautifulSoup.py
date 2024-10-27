@@ -1,13 +1,11 @@
 ###############################################################################################
-# Program: Data Scraping with Scrapy
+# Program: Data Scraping with BeautifulSoup
 # Author: Shania Francine T. Cloma
 # Purpose: This program is created for self-study and practice in web scraping.
 #
 # Requirements:
-# To install the Scrapy framework, open the terminal (or command prompt) and enter:
-#     pip install scrapy
-# 
-# Make sure to add Scrapy in your enviroment variables to be able to install the package
+# To install the BeautifulSoup library, open the terminal (or command prompt) and enter:
+#     pip install beautifulsoup4
 #
 ###############################################################################################
 
